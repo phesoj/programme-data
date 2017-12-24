@@ -1,0 +1,5 @@
+http://api.tvmaze.com/singlesearch/shows?q=hbo&embed=episodes
+http://api.tvmaze.com/singlesearch/shows?q=dexter&embed=episodes
+http://api.tvmaze.com/singlesearch/shows?q=shameless&embed=episodes
+http://api.tvmaze.com/singlesearch/shows?q=mr-robot&embed=episodes
+http://api.tvmaze.com/singlesearch/shows?q=prison-break&embed=episodes
